@@ -1,0 +1,13 @@
+.vscode/
+libraries/__pycache__/
+venv/
+.idea/
+__pycache__/
+gui/*.csv
+/DNNs/PilotNet/output_sensim.png
+*checkpoints*
+DNNs/PilotNet/*/*/*/*.csv
+DNNs/PilotNet/*/*/*/*.png
+DNNs/PilotNet/*/*/*.csv
+DNNs/PilotNet/dataset/*.mat
+*.mat
