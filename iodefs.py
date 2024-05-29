@@ -103,7 +103,7 @@ class PilotNetIO():
         self.input_frame_buffer = np.zeros([66,200,3])
         self.time_input_event = 0
 
-        self.input_images = scipy.io.loadmat('./DNNs/PilotNet/dataset/PilotNet_images_part1.mat')['images'][self.start_sample:self.num_samples]
+        self.input_images = scipy.io.loadmat('./DNNs/PilotNet/dataset/Pilot_0_250.mat')['images'][self.start_sample:self.num_samples]
         self.threshold = np.load('./DNNs/PilotNet/keras/thresholds_delta.npy',  allow_pickle=True)[0]
         
         self.outputDir = outputDir
