@@ -87,3 +87,19 @@ Training and quantization of MNIST is specified under ``` DNNs/4layer_CONV_MNIST
 - ``` weight_quantization.py ```
 
 NOTE: The model is already trained and weights are already provided for testing.
+
+
+If you like the project and use it for your research, you can use the link for citing us. 
+```
+@INPROCEEDINGS{10651400,
+  author={Nembhani, Prithvish and Vadivel, Kanishkan and Tang, Guangzhi and Tahghighi, Mohammad and van Schaik, Gert-Jan and Sifalakis, Manolis and Al-Ars, Zaid and Yousefzadeh, Amirreza},
+  booktitle={2024 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={SENSIM: An Event-driven Parallel Simulator for Multi-core Neuromorphic Systems}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Neuromorphics;Nonvolatile memory;Multicore processing;Neurons;Spiking neural networks;Benchmark testing;Silicon;Hardware-aware Simulation;Neuromorphic;SENECA;SENSIM;SNN/DNN inference},
+  doi={10.1109/IJCNN60899.2024.10651400}}
+
+```
