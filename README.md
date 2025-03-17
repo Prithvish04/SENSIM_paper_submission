@@ -88,10 +88,10 @@ Training and quantization of MNIST is specified under ``` DNNs/4layer_CONV_MNIST
 
 NOTE: The model is already trained and weights are already provided for testing.
 
-Individual Contributions:
+`Individual Contributions:`
 ```
 Amirreza Yousefzadeh (SENSIM mathematical modelling, analytics build, paper reviewing)
-Prithvish Vijaykumar Nembhani (fixing bugs, Making it compatible with SENMap (Mapper), comparing the tool against other baseline tools, paper writing, experimentation and analytics)
+Prithvish Vijaykumar Nembhani (fixing bugs, making it compatible with SENMap (Mapper), slides, poster, comparing the tool against other baseline tools, paper writing, experimentation and analytics)
 Mohammad Taghighi (SENSIM modelling)
 Guanghi Tang (Paper reviewing and suggesting changes)
 Gert-Jan Van Schaik (Paper reviewing and suggesting changes)
@@ -99,7 +99,8 @@ Manolis Sifalakis (Paper reviewing and suggesting changes)
 Kanishkan Vadivel (Paper reviewing and suggesting changes)
 Zaid Al-Ars (Paper reviewing and suggesting changes)
 ```
-If you like the project and use it for your research, you can use the link for citing us. 
+
+`If you like the project and use it for your research, you can use the link for citing us. `
 ```
 @INPROCEEDINGS{10651400,
   author={Nembhani, Prithvish and Vadivel, Kanishkan and Tang, Guangzhi and Tahghighi, Mohammad and van Schaik, Gert-Jan and Sifalakis, Manolis and Al-Ars, Zaid and Yousefzadeh, Amirreza},
