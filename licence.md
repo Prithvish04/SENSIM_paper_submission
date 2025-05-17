@@ -1,4 +1,4 @@
-SENSIM © 2023 by Stichting Imec The Netherlands (Amirreza Yousefzadeh, Prithvish Vijaykumar Nembhani, Mohammad Taghichi, Kanishkan Vadivel, Guangzhi Tang, Zaid Al-Ars (TUDelft)) is licensed under CC BY-NC 4.0 for academic and personal use. For commercial use please contact Stichting Imec The Netherlands.
+SENSIM © 2023 by Stichting Imec The Netherlands (Amirreza Yousefzadeh, Prithvish Vijaykumar Nembhani, Mohammad Taghichi, Kanishkan Vadivel, Guangzhi Tang, Manolis Safikalis, Zaid Al-Ars (TUDelft)) is licensed under CC BY-NC 4.0 for academic and personal use. For commercial use please contact Stichting Imec The Netherlands.
 
 # Attribution-NonCommercial 4.0 International
 
